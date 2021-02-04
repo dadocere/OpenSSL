@@ -3,5 +3,8 @@ lib-ios/*.a
 lib-macos/*.a
 include-ios
 include-macos
-Frameworks/*
 openssl-*/
+iphoneos/*
+iphonesimulator/*
+macosx/*
+macosx-catalyst/*
